@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 
 <p align="left">
   <samp>
-  Hello, I'm Khang Nguyen Phuc. I am interested in learning and exploring more about Platform/Infra engineering, DevOps, and Backend Development.
+<!--   Hello, I'm Khang Nguyen Phuc. I am interested in learning and exploring more about Platform/Infra engineering, DevOps, and Backend Development. -->
+  Hello, I'm Khang Nguyen Phuc. I am interested in learning and exploring more about Backend Development.
   </samp>
 </p>
 
